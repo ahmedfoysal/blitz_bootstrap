@@ -1,0 +1,113 @@
+@font-face {
+ font-family: bebas;
+ src: url("BEBAS___.eot") /* EOT file for IE */
+}
+@font-face {
+ font-family: bebas;
+ src: url("BEBAS___.TTF") /* TTF file for CSS3 browsers */
+}
+@font-face {
+ font-family: pacifico;
+ src: url("Pacifico.eot") /* EOT file for IE */
+}
+@font-face {
+ font-family: pacifico;
+ src: url("Pacifico.ttf") /* TTF file for CSS3 browsers */
+}
+.border{
+	 border: 2px solid red;
+}
+.header{
+	margin-top: 15px;
+}
+.menu h4 {
+	text-transform: uppercase;
+	font-size: 12px;
+	font-family: BEBAS;
+	margin: 0;
+	padding:0;
+	color: rgb(190, 190, 190);
+
+}
+.menu h2{
+	text-transform: uppercase;
+	font-family: BEBAS;
+	margin: 0;
+	padding:0;
+	font-size: 20px;
+}
+.logo h1{
+	font-family: pacifico;
+	margin: 0;
+	padding:0;
+}
+.slider_text h1{
+	color: rgb(95, 95, 95);
+	font-family: bebas;
+	font-size: 25px;
+	font-weight: bold;
+	margin: 0;
+	padding:0;
+}
+.slider_text{
+	background:#F0F0F0;
+}
+.slider_text p{
+text-align: justify;
+}
+h1 h2 h3{
+	margin: 0;
+	padding: 0;
+}
+.about p{
+	text-align: justify;
+}
+.about h3{
+	font-family: bebas;
+}
+.latest_work{
+	background: url('line.png');
+}
+.container{
+	/*background: rgb(245, 245, 245);*/
+}
+.style h3{
+	font-size: 16px;
+}
+.slider{
+	position: relative;
+}
+.slider_content{
+ position: absolute;
+ background: grey;
+ bottom: 14px;
+ left: 15px;
+}
+.slider_content h3{
+	text-transform: uppercase;
+	font-family: bebas;
+	font-size: 16px;
+	padding: 0;
+	margin:0; 
+}
+.slider_content h1{
+	text-transform: uppercase;
+	font-family: bebas;
+	color: white;
+	font-size: 26px;
+	padding: 0;
+	margin:0; 
+	
+}
+.footer{
+	background: rgb(231, 231, 231);
+}
+.m h2{
+	background: white;
+}
+.about{
+	margin-top: 10px;
+}
+.work{
+	margin-top: 15px;
+}
